@@ -39,5 +39,6 @@
   }
   ?>
   </table>
+  <a href="report.php" class="btn btn-success mt-4 mx-2 d-flex justify-content-center">Download PDF</a>
 </body>
 </html>
